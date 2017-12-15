@@ -1,0 +1,59 @@
+
+	Contexte
+	
+		Entreprise Picaso
+		Spécialisée dans le travail du bois
+			Possibilite d'évolution
+				Métal
+				Verre
+				Electronique	
+		Site de test en Haute Savoie
+	
+	Travail attendu
+		
+		Imaginer nouveaux Meubles 
+			A variante
+			Principe de différenciation retardée
+	
+		3 Dossiers
+	
+			Dossier Marketing
+			
+				Quelle clientèle
+				Usage
+				Aspect produit
+				Lieu de vente
+				Lieu de fabrication
+				Composants
+				Matériaux
+				
+			Dossier Méthodes (de Production)
+			
+				Dimensions
+				Composants de base
+				Assemblage
+					Postes
+				Production
+					Durée
+				
+			Dossier Organisationnel (Synthèse)
+			
+				Première année
+				2 produits de base maintenus
+				Ajout de produits
+				Nouvelle Organisation
+					Ateliers
+					Machines
+					Personnel
+					
+	Planning
+				
+		3ème semaine
+			
+			Présentation au client
+			
+		4ème semaine
+			
+			Rédaction du dossier organisationnel
+			
+			
